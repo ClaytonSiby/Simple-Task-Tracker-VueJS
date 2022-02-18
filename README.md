@@ -1,4 +1,5 @@
-# vue-crash-2022
+# Task Tracker Application
+-> Manage your daily todos, task, shopping lists.
 
 ## Project setup
 ```
